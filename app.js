@@ -1,5 +1,5 @@
 
-
+//one issue : when multiple blank note are added, they remain the same multiples when we reload the page.
 const addBtn = document.querySelector('#addBtn');
 const main = document.querySelector('#main');
 
